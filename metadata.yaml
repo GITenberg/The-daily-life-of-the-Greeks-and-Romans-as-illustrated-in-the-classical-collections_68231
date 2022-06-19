@@ -1,0 +1,35 @@
+_repo: The-daily-life-of-the-Greeks-and-Romans-as-illustrated-in-the-classical-collections_68231
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Metropolitan Museum of Art (New York, N.Y.)
+    aliases:
+    - Art, The Metropolitan Museum of
+    - New York (City). Metropolitan Museum of Art
+    - Art, Metropolitan Museum of
+    - New York (N.Y.). Metropolitan Museum of Art
+    gutenberg_agent_id: '50705'
+    url: http://www.gutenberg.org/2009/agents/50705
+    wikipedia: https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art
+  - agent_name: McClees, Helen
+    birthdate: 1885
+    gutenberg_agent_id: '54664'
+    url: http://www.gutenberg.org/2009/agents/54664
+description: ''
+gutenberg_issued: '2022-06-04'
+identifiers:
+  gutenberg: '68231'
+  lccn: '25005497'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- Social life and customs'
+- !lcc 'DE'
+- !lcsh 'Art, Roman'
+- !lcsh 'Greece -- Social life and customs'
+- !lcsh 'Art, Greek'
+- GITenberg
+title: The daily life of the Greeks and Romans as illustrated in the classical collections
+url: http://www.gutenberg.org/ebooks/68231
